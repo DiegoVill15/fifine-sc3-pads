@@ -1,0 +1,7 @@
+{
+  "obs_port": 4455,
+  "A": {"type": "obs_scene", "scene": "Be right back", "sound": {"style": "transition", "volume": 50}},
+  "B": {"type": "open", "path": "C:\\Windows\\System32\\notepad.exe", "sound": {"style": "bell", "volume": 50}},
+  "C": {"type": "keys", "keys": "play_pause", "sound": {"style": "bell", "volume": 50}},
+  "D": {"type": "obs_mute", "source": "Mic/Aux", "sound": {"style": "beep", "volume": 30}}
+}

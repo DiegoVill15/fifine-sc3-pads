@@ -1,0 +1,12 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Personal configuration (paths, scene names) - see actions.example.json
+actions.json
+
+# Generated files
+samples/
+*.wav
+*.log
